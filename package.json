@@ -1,0 +1,22 @@
+{
+  "name": "intrestcalculator",
+  "version": "1.0.0",
+  "description": "bank intrest calculator",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OussamaBenramdane/Bank-Interest-Calculator.git"
+  },
+  "author": "oussama Benramdane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OussamaBenramdane/Bank-Interest-Calculator/issues"
+  },
+  "homepage": "https://github.com/OussamaBenramdane/Bank-Interest-Calculator#readme",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
